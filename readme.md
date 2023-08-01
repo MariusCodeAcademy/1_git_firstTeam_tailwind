@@ -9,3 +9,7 @@
 4. `git remote add origin https://github.com/MariusCodeAcademy/1_git_firstTeam_tailwind.git`
 5. `git branch -M main`
 6. `git push -u origin main`
+
+## branch
+
+7. `git checkout -b development` - sukurti ir pereiti i nauja saka
