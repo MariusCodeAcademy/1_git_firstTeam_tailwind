@@ -13,3 +13,4 @@
 ## branch
 
 7. `git checkout -b development` - sukurti ir pereiti i nauja saka
+8. `git push -u origin development` - publikuoki saka
