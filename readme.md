@@ -14,3 +14,9 @@
 
 7. `git checkout -b development` - sukurti ir pereiti i nauja saka
 8. `git push -u origin development` - publikuoki saka
+
+## reset
+
+9. `git reset <shacodas>` - atstadyti iki nurodyto comit (pakeitimai lieka)
+10. `git reset HEAD~1` - atstadyti paskutini comita (pakeitimai lieka)
+11. `git reset --hard HEAD~1` - atstadyti paskutini comita (pakeitimu nelieka)
